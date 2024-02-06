@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 ![tuusuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=0LE6&show_icons=true)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0LE6)
+
+
