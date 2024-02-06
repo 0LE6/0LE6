@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=0LE6&theme=blue-green)
+<!--![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=0LE6&theme=blue-green)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0LE6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![LeetCode user tuusuario](https://img.shields.io/badge/LeetCode-tuusuario-green.svg)](https://leetcode.com/Kasatk)
 
 
 <!--![tuusuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=0LE6&show_icons=true)-->
