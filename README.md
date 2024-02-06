@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 github-readme-stats-git-master-0le6s-projects.vercel.app
-![GitHub Readme Stats](https://github-readme-stats-git-master-0le6s.vercel.app/api?username=0LEG&show_icons=true)
+![GitHub Readme Stats](https:/github-readme-stats-git-master-0le6s-projects.vercel.app/api?username=0LEG&show_icons=true)
 
 
 
